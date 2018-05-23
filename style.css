@@ -20,9 +20,10 @@ h1{
 
 button{
 	display: block;
-	margin: auto;
+	margin: 10px auto;
 	background-color: #b8c800;
-	font-size: 1.5em
+	padding: 10px;
+	font-size: 1.3em
 }
 
 
