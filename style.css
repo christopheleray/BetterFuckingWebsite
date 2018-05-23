@@ -18,8 +18,12 @@ h1{
 	font-size: 2em;
 }
 
-
-
+button{
+	display: block;
+	margin: auto;
+	background-color: #b8c800;
+	font-size: 1.5em
+}
 
 
 
